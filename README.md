@@ -1,3 +1,2 @@
 # idhub requirements
-## dynamic credentials requirements
-	[link](./dynamic-credentials-requirements.md)
+## [dynamic credentials requirements](./dynamic-credentials-requirements.md)
