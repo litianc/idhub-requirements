@@ -3,7 +3,7 @@
 国哥：身份的使用才是加分项，我们需要一个感动人心的Demo来演示身份动态证明的使用场景。
 
 ## 场景概述
-场景改编自 Hyperledger-Indy 的 getting-started 中 Alice 的求职故事。我们延用 Alice 的故事，并稍加修改来构思探索。Alice 是虚构的 Faber 学院的毕业生，想要在虚构公司 Acme Corp. 申请工作。她一有工作就想向 Thrift Bank 申请贷款，以便她可以买车。她想用她的大学成绩单来证明她在求职申请上的学历，并且一旦聘用，艾丽丝想用在公司提供的`收入证明 > M`作为她贷款信用的证据。
+场景改编自 Hyperledger-Indy 的 [getting-started](https://github.com/hyperledger/indy-node/blob/master/getting-started.md) 中 [Alice 的求职故事](https://github.com/hyperledger/indy-node/blob/master/getting-started.md#alice-gets-a-transcript)。我们延用 Alice 的故事，并稍加修改来构思探索。Alice 是虚构的 Faber 学院的毕业生，想要在虚构公司 Acme Corp. 申请工作。她一有工作就想向 Thrift Bank 申请贷款，以便她可以买车。她想用她的大学成绩单来证明她在求职申请上的学历，并且一旦聘用，艾丽丝想用在公司提供的`收入证明 > M`作为她贷款信用的证据。
 
 ## 场景分析
 1. 这是一个定制化场景
